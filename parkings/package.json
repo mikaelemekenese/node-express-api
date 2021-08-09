@@ -1,0 +1,19 @@
+{
+  "name": "node-express-api-sample",
+  "version": "1.0.0",
+  "description": "A simple node js api sample project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "nodemon index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "(https://github.com/mikaelemekenese/node-express-api.git)"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
